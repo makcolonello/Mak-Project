@@ -2,6 +2,14 @@
 
 Here is my portfolio project! In my website I employed the navigation bar via Bootstrap. I use css grid with my photo gallery on my home page banner. My navigation bar will take you to my about section featuring my YouTube video as well as my portfolio and contact me sections. My portfolio features the 3 projects we have been working on in the xMIT PRO. These portfolios all have clickable links to their github repos embedded in the github icon. My contact me section has all pertinent links embedded into each corresponding icon such as: Instagram, my github account, linkedin, and my email. I finish my site with a footer and my copyright. The entire site uses a smooth scroll function to take you to each page when clicking on the navigation bar.
 
+
+
+Pacmen--https://makcolonello.github.io/PacMen-Exercise-/
+My Eyes--https://makcolonello.github.io/Eye-Exercise/
+Real Time Bus Tracker--https://makcolonello.github.io/Real-Time-Bus-Tracker/
+
+Visit my Website: https://makcolonello.github.io/Mak-Project/
+
 MIT License
 
 Copyright (c) 2023 Makayla Colonello
